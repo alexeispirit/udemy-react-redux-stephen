@@ -10,6 +10,12 @@
       "description": "made by me",
       "userId": "114993068704488616222",
       "id": 2
+    },
+    {
+      "title": "my new stream",
+      "description": "test",
+      "userId": "114993068704488616222",
+      "id": 3
     }
   ]
 }
